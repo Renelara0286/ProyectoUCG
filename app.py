@@ -21,4 +21,4 @@ anios = st.number_input("Ingrese el número de años del prestamo:",value=1)
 numero_pagos = st.number_input("Ingrese el número pagos anuales:" , value = 12)
 
 cuota = lf.cuota_prestamo(monto, interes,anios,numero_pagos)
-st.write(cuot)
+st.write("Su cuota mensual es: ",cuota)
