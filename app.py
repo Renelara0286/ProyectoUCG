@@ -4,4 +4,4 @@ st.title("Proyecto final UCG")
 
 st.sidebar.title("Parametros")
 
-st.image(python
+st.image(“Logotipo de Python-png.pngython“)
